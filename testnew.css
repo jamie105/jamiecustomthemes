@@ -1,0 +1,7 @@
+ 
+#realbox {
+  background-color: var(--search-box-bg, rgb(30,0,40));
+}
+.btn-green {
+      background-color: rgb(200,200,50);
+}
